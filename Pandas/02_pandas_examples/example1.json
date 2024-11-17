@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Alice",
+    "Age": 30,
+    "Occupation": "Engineer",
+    "Country": "USA"
+  },
+  {
+    "Name": "Bob",
+    "Age": 25,
+    "Occupation": "Designer",
+    "Country": "UK"
+  },
+  {
+    "Name": "Charlie",
+    "Age": 35,
+    "Occupation": "Doctor",
+    "Country": "Canada"
+  },
+  {
+    "Name": "Diana",
+    "Age": 28,
+    "Occupation": "Teacher",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Ethan",
+    "Age": 40,
+    "Occupation": "Chef",
+    "Country": "France"
+  }
+]
