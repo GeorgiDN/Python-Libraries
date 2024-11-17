@@ -24,3 +24,6 @@
 
 ➡[11.Import-Export](https://github.com/GeorgiDN/Python-Libraries/blob/main/Pandas/01_pandas_get_started/11-import-export.ipynb)
 
+➡[12.Pandas Examples](https://github.com/GeorgiDN/Python-Libraries/tree/main/Pandas/02_pandas_examples)
+
+➡[13.Pandas - Excel](https://github.com/GeorgiDN/Python-Libraries/tree/main/Pandas/03_pandas_with_excel)
