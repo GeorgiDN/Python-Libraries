@@ -1,6 +1,5 @@
 import numpy as np
 
-
 # Reshape From 1-D to 2-D
 # 4 arrays, each with 3 elements:
 arr = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
