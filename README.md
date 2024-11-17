@@ -5,3 +5,5 @@
 
 ## Table of contents
 ➡ [Pandas](https://github.com/GeorgiDN/Python-Libraries/tree/main/Pandas)
+
+➡ [NumPy](https://github.com/GeorgiDN/Python-Libraries/tree/main/NumPy)
